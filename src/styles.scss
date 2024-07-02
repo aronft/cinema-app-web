@@ -1,11 +1,10 @@
 @import "@/app/styles/generic/_reset.scss";
 @import url('./app/styles/generic/_fonts.scss');
+@import "@/app/styles/generic/_base.scss";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
-body {
-  font-family: 'Bebas Neue', sans-serif;
-}
 
